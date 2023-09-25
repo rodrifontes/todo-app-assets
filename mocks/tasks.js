@@ -1,6 +1,6 @@
 export const tasks = [
   {
-    _id: '1',
+    id: '1',
     title: 'Estudar React Native',
     description: 'Fazer a atividade passada na ultima aula',
     done: false,
@@ -8,7 +8,7 @@ export const tasks = [
   },
 
   {
-    _id: '2',
+    id: '2',
     title: 'Lavar meu Carro',
     description: 'Lavar meu carro no final da tarde',
     done: false,
@@ -16,7 +16,7 @@ export const tasks = [
   },
 
   {
-    _id: '3',
+    id: '3',
     title: 'Reunião Trabalho',
     description: 'Preparar o material para a reunião de discussão do novo projeto a ser realizado',
     done: true,
@@ -24,7 +24,7 @@ export const tasks = [
   },
 
   {
-    _id: '4',
+    id: '4',
     title: 'Ir ao Supermercado',
     description: 'Comprar: Açucar, Café e Pão',
     done: false,
